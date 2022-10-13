@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Adil Hussain
 - 👀 I’m interested in developing Web pages 
 - 🌱 I’m currently learning to explore myself
-- 💞️ 
 - 📫 insta: https://www.instagram.com/adil_hussain72
 
 <!---
